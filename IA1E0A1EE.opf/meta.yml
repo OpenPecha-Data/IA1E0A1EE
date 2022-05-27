@@ -1,0 +1,28 @@
+id: IA1E0A1EE
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+source_file: null
+initial_creation_type: input
+imported: '2022-05-27T18:59:58.530739'
+last_modified: '2022-05-27T18:59:58.530751'
+parser: null
+source_metadata:
+  title: 'MSV 6,01: Upāliparipṛcchā'
+  language: bo
+  base:
+    fB20B:
+      title: CI_Vibhaṅga
+      base_file: fB20B.txt
+      order: 1
+    f9446:
+      title: CI_Vastu
+      base_file: f9446.txt
+      order: 2
+  chapter_to_tile:
+    CI: Upāliparipṛcchā
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
